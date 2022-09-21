@@ -1,0 +1,10 @@
+SELECT 
+  PAGES.page_id
+FROM 
+  PAGES
+LEFT JOIN
+  PAGE_LIKES ON PAGES.page_id = PAGE_LIKES.page_id
+WHERE 
+  PAGE_LIKES.page_id IS NULL
+ORDER BY 
+  PAGES.page_id;
