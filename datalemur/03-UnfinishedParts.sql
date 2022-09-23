@@ -1,0 +1,6 @@
+SELECT 
+  DISTINCT(part)
+FROM
+  PARTS_ASSEMBLY
+WHERE 
+  finish_date IS NULL;
