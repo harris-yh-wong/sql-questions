@@ -13,4 +13,4 @@
 | 005 | DataLemur | [User's Third Transaction](/datalemur/UsersThirdTransaction.sql)            | [Link :link:](https://datalemur.com/questions/sql-third-transaction)    | window functions with partition by, over by                |
 | 006 | DataLemur | [Compensation Outliers](/datalemur/CompensationOutliers.sql)                | [Link :link:](https://datalemur.com/questions/compensation-outliers)    | use `CASE WHEN` result in `WHERE` clause with CTE/subquery |
 | 007 | DataLemur | [Sending vs. Opening Snaps](/datalemur/SendingVsOpeningSnaps.sql)           | [Link :link:](https://datalemur.com/questions/time-spent-snaps)         | aggregation x2                                             |
-
+| 008 | DataLemur | [Tweets' Rolling Averages](/datalemur/TweetsRollingAverage.sql)             | [Link :link:](https://datalemur.com/questions/rolling-average-tweets)   | Rollmean                                                   |
