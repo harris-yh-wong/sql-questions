@@ -15,3 +15,5 @@
 | 007 | DataLemur | [Sending vs. Opening Snaps](/datalemur/SendingVsOpeningSnaps.sql)           | [Link :link:](https://datalemur.com/questions/time-spent-snaps)         | aggregation x2                                             |
 | 008 | DataLemur | [Tweets' Rolling Averages](/datalemur/TweetsRollingAverage.sql)             | [Link :link:](https://datalemur.com/questions/rolling-average-tweets)   | Rollmean                                                   |
 | 009 | DataLemur | [Odd and Even Measurements](/datalemur/OddAndEvenMeasurements.sql)          | [Link :link:](https://datalemur.com/questions/odd-even-measurements)    | window function (`ROW_NUMBER`)                             |
+| 010 | DataLemur | [Highest-Grossing Items](/datalemur/HighestGrossingItems.sql)               | [Link :link:](https://datalemur.com/questions/sql-highest-grossing)     | First n rows, grouped                                      |
+
