@@ -16,4 +16,4 @@
 | 008 | DataLemur | [Tweets' Rolling Averages](/datalemur/TweetsRollingAverage.sql)             | [Link :link:](https://datalemur.com/questions/rolling-average-tweets)   | Rollmean                                                   |
 | 009 | DataLemur | [Odd and Even Measurements](/datalemur/OddAndEvenMeasurements.sql)          | [Link :link:](https://datalemur.com/questions/odd-even-measurements)    | window function (`ROW_NUMBER`)                             |
 | 010 | DataLemur | [Highest-Grossing Items](/datalemur/HighestGrossingItems.sql)               | [Link :link:](https://datalemur.com/questions/sql-highest-grossing)     | First n rows, grouped                                      |
-
+| 011 | DataLemur | [First Transaction](/datalemur/FirstTransaction.sql)                        | [Link :link:](https://datalemur.com/questions/sql-first-transaction)    | First row in each group with `ROW_NUMBER()`                |
