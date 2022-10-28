@@ -20,3 +20,4 @@
 | 012 | DataLemur | [Linkedin Power Creators (Part 1)](/datalemur/LinkedinPowerCreatorsPart1.sql) | [Link :link:](https://datalemur.com/questions/sql-highest-grossing)     | joins                                                              |
 |     | DataLemur | [Linkedin Power Creators (Part 2)](/datalemur/LinkedinPowerCreatorsPart2.sql) | [Link :link:](https://datalemur.com/questions/sql-highest-grossing)     | `HAVING`                                                           |
 | 013 | DataLemur | [Top 5 Artists](/datalemur/Top5Artists.sql)                                   | [Link :link:](https://datalemur.com/questions/sql-highest-grossing)     | `DENSE_RANK()`, multiple CTEs, using aggregated columns in `LIMIT` |
+
